@@ -1,0 +1,25 @@
+.navbar {
+  font-family: "Nanum Gothic Coding", monospace;
+}
+.navbar .navbar-brand {
+  font-size: 25px;
+}
+.jumbotron h1 {
+  font-size: 60px;
+}
+.jumbotron .col {
+  padding: 0px;
+}
+#about {
+  background-color: #212529;
+  color: white;
+  height: 450px;
+  font-size: 20px;
+}
+#freelance {
+  font-size: 35px;
+  font-family: "Nanum Gothic Coding", monospace;
+}
+.isfix {
+  margin-top: 50px;
+}
